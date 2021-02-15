@@ -1,4 +1,13 @@
-### Hi there 👋. Welcome to my GitHub.
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my GitHub.
+<a href="https://www.linkedin.com/in/shashankkatte/">
+  <img align="left" alt="Shashank's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/shashankkatte">
+  <img align="left" alt="Shashank Katte | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+
+
 
 <!--
 **shashankkatte/shashankkatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
