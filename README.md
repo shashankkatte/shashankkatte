@@ -3,7 +3,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you here.</h1>
 
 
-<p>I'm <strong>Shashank</strong>, Fullstack Developer, Open-Source Enthusiast and Agile-DevOps Coach from <img src="https://image.flaticon.com/icons/svg/321/321219.svg" width="13"/> <b>Toronto, Canada</b>.</p>
+<p>I'm <strong>Shashank</strong>, Fullstack Developer, Open-Source Enthusiast and Agile-DevOps Coach from <b>Toronto, Canada</b>.</p>
+
+
 
 <p>
     <a align="left" href="https://www.linkedin.com/in/shashankkatte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" ></a> 
